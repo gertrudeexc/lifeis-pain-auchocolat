@@ -1,15 +1,14 @@
 ---
-title: A Blog That Works
+title: Stories
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  This page will be a consolidated section of all the content that I plan to upload. I will be categorised nicely by topics.
+author: "Gertrude"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
 show_post_date: true
 show_button_links: false
-# for listing page layout
+# for listing page layoutser
 layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
@@ -32,7 +31,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Gertrude"
   show_author_byline: true
   show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances
